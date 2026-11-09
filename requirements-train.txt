@@ -1,0 +1,7 @@
+-r requirements.txt
+scikit-learn
+scipy
+joblib
+datasets
+accelerate
+torchvision
